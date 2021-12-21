@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Heads UP</string>
+    <string name="taboo1">taboo1</string>
+    <string name="taboo2">taboo2</string>
+    <string name="taboo3">taboo3</string>
+    <string name="celeb_name">Celeb name</string>
+    <string name="heads_up">Heads Up!</string>
+    <string name="start">Start</string>
+    <string name="please_rotate_device">Please Rotate Device</string>
+    <string name="time">Time: --</string>
+</resources>
